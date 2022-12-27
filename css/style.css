@@ -353,6 +353,7 @@
   @media (max-width: 479px) {
     .card-page__text{
       display: none;
+        font-size: 12px;
     }
   }
   
